@@ -43,6 +43,7 @@ Clean blue–white medical UI
 ### 3. SOAP Note Generation
 
 ## Project Structure
+
 ```bash
 physician_notetaker/
 │
