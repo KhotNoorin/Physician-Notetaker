@@ -1,18 +1,18 @@
 # Physician Notetaker
 
-An AI-assisted medical documentation system that captures physician–patient conversations and automatically generates:
+An AI assisted medical documentation system that captures physician patient conversations and automatically generates:
 
 Structured medical summaries  
 Patient sentiment & intent analysis  
 SOAP notes (Subjective, Objective, Assessment, Plan)
 
-Built using Flask, Python 3.13.5, and a modular NLP pipeline, this project demonstrates an end-to-end healthcare-oriented AI system with clean architecture, validation, logging, testing, and a user-friendly web interface.
+Built using Flask, Python 3.13.5, and a modular NLP pipeline, this project demonstrates an end-to-end healthcare oriented AI system with clean architecture, validation, logging, testing, and a user friendly web interface.
 
 ---
 
 ## Features
 
-Interactive physician–patient chat interface  
+Interactive physician patient chat interface  
 
 Medical NLP pipeline:
 - Named Entity Recognition (Symptoms, Diagnosis, Treatment, Prognosis)
