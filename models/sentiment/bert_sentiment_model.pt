@@ -1,0 +1,27 @@
+PLACEHOLDER: BERT Sentiment Model
+
+This file represents a placeholder for a fine-tuned
+Transformer-based sentiment classification model.
+
+Intended purpose:
+- Classify patient sentiment as:
+  • Anxious
+  • Neutral
+  • Reassured
+
+Planned base models:
+- distilbert-base-uncased
+- clinicalbert
+- bert-base-uncased
+
+Training data (future):
+- MedDialog
+- MIMIC-III / MIMIC-IV
+- i2b2 clinical NLP datasets
+
+Current implementation:
+- Rule-based sentiment analysis
+  (see nlp/sentiment_intent.py)
+
+This placeholder exists to demonstrate
+project completeness and extensibility.

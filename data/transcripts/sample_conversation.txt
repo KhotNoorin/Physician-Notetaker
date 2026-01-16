@@ -1,0 +1,37 @@
+Physician: Good morning, Ms. Jones. How are you feeling today?
+Patient: Good morning, doctor. I’m doing better, but I still have some discomfort now and then.
+
+Physician: I understand you were in a car accident last September. Can you walk me through what happened?
+Patient: Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Another car hit me from behind and pushed my car into the one in front.
+
+Physician: That sounds like a strong impact. Were you wearing your seatbelt?
+Patient: Yes, I always wear my seatbelt.
+
+Physician: What did you feel immediately after the accident?
+Patient: At first, I was shocked. Then I realized I had hit my head on the steering wheel and felt pain in my neck and back almost immediately.
+
+Physician: Did you seek medical attention at that time?
+Patient: Yes, I went to Moss Bank Accident and Emergency. They said it was a whiplash injury and sent me home without doing X-rays.
+
+Physician: How did things progress after that?
+Patient: The first four weeks were very difficult. My neck and back pain were severe, and I had trouble sleeping. I had to take painkillers regularly and later completed ten physiotherapy sessions, which helped reduce the stiffness and discomfort.
+
+Physician: Are you still experiencing pain now?
+Patient: The pain is not constant anymore. I only experience occasional backaches now.
+
+Physician: Have you noticed any anxiety while driving or difficulty concentrating?
+Patient: No, I don’t feel anxious while driving and haven’t had any emotional issues related to the accident.
+
+Physician: How has this affected your daily life and work?
+Patient: I took one week off work, but after that I returned to my normal routine. It hasn’t restricted my activities.
+
+Physician: Let’s proceed with a physical examination.
+Physician: Your neck and back show a full range of movement with no tenderness or signs of lasting damage.
+
+Patient: That’s a relief!
+
+Physician: Your recovery is progressing well. I expect a full recovery within six months of the accident. There are no signs of long-term damage.
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Physician: You’re very welcome, Ms. Jones. Please return if your symptoms worsen.

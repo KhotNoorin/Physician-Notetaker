@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Physician Notetaker</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="app-container">
+
+    <!-- Header -->
+    <header class="header">
+        <h1>🩺 Physician Notetaker</h1>
+        <p class="subtitle">AI-assisted clinical conversation & documentation</p>
+    </header>
+
+    <!-- Conversation Section -->
+    <section class="conversation-section">
+        <h2>Conversation</h2>
+
+        <div class="chat-box" id="chatBox">
+            <div class="chat-message physician">
+                <div class="label">Physician</div>
+                <div class="bubble">Good morning. How can I help you today?</div>
+            </div>
+        </div>
+
+        <!-- Input -->
+        <div class="input-area">
+            <input
+                type="text"
+                id="userInput"
+                placeholder="Type patient message here..."
+                autocomplete="off"
+            />
+            <button id="sendBtn">➤</button>
+        </div>
+    </section>
+
+    <!-- Summary Section -->
+    <section class="summary-section">
+        <h2>Medical Summary</h2>
+        <pre id="summaryText">Patient medical summary will appear here.</pre>
+    </section>
+
+    <!-- Sentiment Section -->
+    <section class="intent-section">
+        <h2>Patient Sentiment</h2>
+        <span id="sentimentLabel" class="sentiment neutral">Neutral</span>
+    </section>
+
+    <!-- SOAP Note Section -->
+    <section class="soap-section">
+        <h2>SOAP Note</h2>
+
+        <div class="soap-block">
+            <h3>Subjective</h3>
+            <pre id="soapSubjective">—</pre>
+        </div>
+
+        <div class="soap-block">
+            <h3>Objective</h3>
+            <pre id="soapObjective">—</pre>
+        </div>
+
+        <div class="soap-block">
+            <h3>Assessment</h3>
+            <pre id="soapAssessment">—</pre>
+        </div>
+
+        <div class="soap-block">
+            <h3>Plan</h3>
+            <pre id="soapPlan">—</pre>
+        </div>
+    </section>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/chat.js') }}"></script>
+</body>
+</html>

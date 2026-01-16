@@ -1,0 +1,18 @@
+{
+  "Subjective": {
+    "Chief_Complaint": "Stiffness, Discomfort, Back Pain, Pain",
+    "History_of_Present_Illness": "Patient was involved in a car accident and experienced neck and back pain for several weeks, now reporting improvement with occasional discomfort."
+  },
+  "Objective": {
+    "Physical_Exam": "Physical examination details not documented.",
+    "Observations": "Patient appears in normal health."
+  },
+  "Assessment": {
+    "Diagnosis": "Condition under evaluation",
+    "Severity": "Severity not specified"
+  },
+  "Plan": {
+    "Treatment": "Continue Physiotherapy, Painkillers as needed and use analgesics for pain relief.",
+    "Follow_Up": "Patient to return if pain worsens or persists beyond the expected recovery period."
+  }
+}

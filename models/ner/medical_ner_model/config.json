@@ -1,0 +1,13 @@
+{
+  "model_type": "medical_ner",
+  "framework": "spacy / transformers",
+  "language": "en",
+  "entities": [
+    "SYMPTOM",
+    "DIAGNOSIS",
+    "TREATMENT",
+    "PROGNOSIS"
+  ],
+  "status": "placeholder",
+  "notes": "This model will be fine-tuned on clinical data in future iterations."
+}

@@ -1,0 +1,17 @@
+PLACEHOLDER: Medical Summarization Model
+
+This file represents a placeholder for a trained
+medical text summarization model.
+
+Expected formats in future:
+- HuggingFace model directory
+- PyTorch checkpoint (.pt)
+- Safetensors (.safetensors)
+
+Current system uses:
+- Named Entity Recognition
+- Keyword extraction
+- Rule-based structuring
+
+This placeholder exists to demonstrate
+project extensibility and architectural completeness.

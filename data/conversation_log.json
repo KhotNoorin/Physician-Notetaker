@@ -1,0 +1,192 @@
+[
+  {
+    "role": "Patient",
+    "text": "Good morning, doctor. I’m doing better, but I still have some discomfort now and then.",
+    "timestamp": "2026-01-16T12:54:02.681627"
+  },
+  {
+    "role": "Physician",
+    "text": "That’s good to hear. Are you still experiencing any discomfort?",
+    "timestamp": "2026-01-16T12:54:02.683171"
+  },
+  {
+    "role": "Patient",
+    "text": "Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Out of nowhere, another car hit me from behind, which pushed my car into the one in front.",
+    "timestamp": "2026-01-16T12:54:29.045792"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:54:29.046578"
+  },
+  {
+    "role": "Patient",
+    "text": "At first, I was just shocked. But then I realized I had hit my head on the steering wheel, and I could feel pain in my neck and back almost right away.",
+    "timestamp": "2026-01-16T12:54:51.132611"
+  },
+  {
+    "role": "Physician",
+    "text": "Can you tell me more about the location and severity of the pain?",
+    "timestamp": "2026-01-16T12:54:51.133424"
+  },
+  {
+    "role": "Patient",
+    "text": "yes  I could feel pain in my neck and back almost right away.",
+    "timestamp": "2026-01-16T12:55:32.839658"
+  },
+  {
+    "role": "Physician",
+    "text": "Can you tell me more about the location and severity of the pain?",
+    "timestamp": "2026-01-16T12:55:32.840964"
+  },
+  {
+    "role": "Patient",
+    "text": "yes in my back",
+    "timestamp": "2026-01-16T12:55:43.079982"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:55:43.081581"
+  },
+  {
+    "role": "Patient",
+    "text": "The first four weeks were rough. My neck and back pain were really bad—I had trouble sleeping and had to take painkillers regularly. It started improving after that, but I had to go through ten sessions of physiotherapy to help with the stiffness and discomfort.",
+    "timestamp": "2026-01-16T12:56:13.430744"
+  },
+  {
+    "role": "Physician",
+    "text": "Can you tell me more about the location and severity of the pain?",
+    "timestamp": "2026-01-16T12:56:13.431897"
+  },
+  {
+    "role": "Patient",
+    "text": "neck and back",
+    "timestamp": "2026-01-16T12:56:36.135931"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:56:36.136939"
+  },
+  {
+    "role": "Patient",
+    "text": "that's it",
+    "timestamp": "2026-01-16T12:57:09.626049"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:57:09.626856"
+  },
+  {
+    "role": "Patient",
+    "text": "i complete",
+    "timestamp": "2026-01-16T12:57:19.552705"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:57:19.553649"
+  },
+  {
+    "role": "Patient",
+    "text": "recovery so far has been quite positive. Given your progress, I’d expect you to make a full recovery within six months of the accident. There are no signs of long-term damage or degeneration.",
+    "timestamp": "2026-01-16T12:58:06.983343"
+  },
+  {
+    "role": "Physician",
+    "text": "I understand. When did the accident occur, and what injuries did you notice?",
+    "timestamp": "2026-01-16T12:58:06.984150"
+  },
+  {
+    "role": "Patient",
+    "text": "before 6 month and injuries in back and neck",
+    "timestamp": "2026-01-16T12:58:35.634490"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T12:58:35.635699"
+  },
+  {
+    "role": "Patient",
+    "text": "Good morning doctor, i had car accident",
+    "timestamp": "2026-01-16T13:19:28.119634"
+  },
+  {
+    "role": "Physician",
+    "text": "I understand. When did the accident occur, and what injuries did you notice?",
+    "timestamp": "2026-01-16T13:19:28.125991"
+  },
+  {
+    "role": "Patient",
+    "text": "In mumbai when i was returning to my home, i got my leg facture and arm ingury",
+    "timestamp": "2026-01-16T13:20:31.287289"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T13:20:31.288338"
+  },
+  {
+    "role": "Patient",
+    "text": "Good Morning doctor, i had car accident yesterday",
+    "timestamp": "2026-01-16T13:31:36.123836"
+  },
+  {
+    "role": "Physician",
+    "text": "I understand. When did the accident occur, and what injuries did you notice?",
+    "timestamp": "2026-01-16T13:31:36.125687"
+  },
+  {
+    "role": "Patient",
+    "text": "on 15 december and i had injuries in head and neck",
+    "timestamp": "2026-01-16T13:32:18.784701"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T13:32:18.785541"
+  },
+  {
+    "role": "Patient",
+    "text": "Good morning, doctor. on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Out of nowhere, another car hit me from behind, which pushed my car into the one in front.",
+    "timestamp": "2026-01-16T13:33:41.448677"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T13:33:41.449638"
+  },
+  {
+    "role": "Patient",
+    "text": "At first, I was just shocked. But then I realized I had hit my head on the steering wheel, and I could feel pain in my neck and back almost right away.",
+    "timestamp": "2026-01-16T13:33:57.957506"
+  },
+  {
+    "role": "Physician",
+    "text": "Can you tell me more about the location and severity of the pain?",
+    "timestamp": "2026-01-16T13:33:57.958163"
+  },
+  {
+    "role": "Patient",
+    "text": "The first four weeks were rough. My neck and back pain were really bad—I had trouble sleeping and had to take painkillers regularly. It started improving after that, but I had to go through ten sessions of physiotherapy to help with the stiffness and discomfort.",
+    "timestamp": "2026-01-16T13:34:18.378886"
+  },
+  {
+    "role": "Physician",
+    "text": "Can you tell me more about the location and severity of the pain?",
+    "timestamp": "2026-01-16T13:34:18.379741"
+  },
+  {
+    "role": "Patient",
+    "text": "yes on neck and back",
+    "timestamp": "2026-01-16T13:34:57.936664"
+  },
+  {
+    "role": "Physician",
+    "text": "Please continue, I’m listening.",
+    "timestamp": "2026-01-16T13:34:57.939999"
+  }
+]

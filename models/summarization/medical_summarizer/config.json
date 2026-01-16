@@ -1,0 +1,14 @@
+{
+  "model_type": "medical_text_summarization",
+  "framework": "transformers",
+  "language": "en",
+  "architecture": "encoder-decoder",
+  "planned_base_models": [
+    "facebook/bart-large-cnn",
+    "google/pegasus-pubmed",
+    "t5-base"
+  ],
+  "output_format": "structured_json",
+  "status": "placeholder",
+  "notes": "Model will be fine-tuned on clinical and medical dialogue datasets."
+}

@@ -1,0 +1,8 @@
+This is a placeholder for a trained Medical NER model.
+
+Possible formats:
+- spaCy pipeline directory
+- HuggingFace model checkpoint
+- Torch saved model (.pt)
+
+This file exists to indicate project structure completeness.

@@ -1,0 +1,28 @@
+{
+  "Patient_Name": "Unknown",
+  "Symptoms": [
+    "Stiffness",
+    "Discomfort",
+    "Back Pain",
+    "Pain"
+  ],
+  "Diagnosis": "Not mentioned",
+  "Treatment": [
+    "Physiotherapy",
+    "Painkillers"
+  ],
+  "Current_Status": "Symptoms improving",
+  "Prognosis": "Improving",
+  "Keywords": [
+    "A Full Recovery",
+    "Accident",
+    "Back",
+    "Back\nPhysician",
+    "Back And Neck\nPhysician",
+    "Back Pain",
+    "Car Accident",
+    "Car Accident\nPhysician",
+    "Cheadle Hulme",
+    "Head"
+  ]
+}
